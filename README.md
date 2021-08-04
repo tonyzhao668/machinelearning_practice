@@ -1,1 +1,21 @@
 # machinelearning_practice
+
+## Targets of the practice:
+
+### 1. Sentiment Analysis
+### 2. Regression
+### 3. Classification
+
+## Steps for each category:
+
+### Data cleansing (drop nan, remove duplicates, remove outliers, standardization etc.)
+
+### a. Initial Data Exploration
+### b. Data clearnsing and featurization
+### c. Model training and evaluation
+### d. Presentation of progress, findings and results.
+
+#### 03/08/21
+
+
+
