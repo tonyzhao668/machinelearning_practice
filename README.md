@@ -1,5 +1,7 @@
 # machinelearning_practice
 
+## On going project
+
 ## Targets of the practice:
 
 ### 1. Sentiment Analysis
