@@ -7,6 +7,7 @@
 ### 1. Sentiment Analysis
 ### 2. Regression
 ### 3. Classification
+### 4. Tensorflow
 
 ## Steps for each category:
 
@@ -15,9 +16,10 @@
 ### a. Initial Data Exploration
 ### b. Data clearnsing and featurization
 ### c. Model training and evaluation
-### d. Presentation of progress, findings and results.
+### d. model save and relaod
+### e. Presentation of progress, findings and results.
 
-#### 03/08/21
+#### from 03/08/21
 
 
 
